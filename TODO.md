@@ -24,5 +24,5 @@ Welcome! Here's a list of tasks to get you started with the Git and GitHub workf
 
 - [ ] **Open a Pull Request**
     - [ ] Go to the original repository on GitHub.
-    - [ ] Open a pull request to merge your `feature/add-new-lines` branch into the `main` branch.
+    - [ ] Open a pull request to merge your `feature/add-new-lines` branch into the `main` branch. Open another PR to merge your fork onto mine. 
     - [ ] Fill out the pull request template with the requested information.
